@@ -2,7 +2,7 @@
 ## Beta Multi Device 
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJDcHPHsij7anNGZCHUw3xdzpsjSOWm17d_U7rFrXxpoxESk1tEbwJ_Zk&s=10" alt="LEXXY BOT" width="200"/>
+<img src="https://te.legra.ph/file/352063a7ce2e2fa54a16c.jpg" alt="LEXXY BOT" width="400"/>
 
 <p align="center">
     <a href="https://Lexxy24.github.io">
